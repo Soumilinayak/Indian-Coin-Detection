@@ -35,7 +35,7 @@ https://github.com/pradhandebasish2046/Indian-Coin-Detection/assets/84903046/e0a
 Clone the repository
 
 ```bash
-https://github.com/pradhandebasish2046/Indian-Coin-Detection.git
+https://github.com/Soumilinayak/Indian-Coin-Detection.git
 ```
 ### STEP 01- Create a python environment after opening the repository. Then activate the environment
 
