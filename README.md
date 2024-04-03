@@ -1,9 +1,5 @@
 # Indian-Coin-Detection
 
-# Dataset 
-![Kaggle](https://www.kaggle.com/datasets/pradhandebasish/indian-coin-detection)
-
-
 
 https://github.com/pradhandebasish2046/Indian-Coin-Detection/assets/84903046/e0a4a1a0-1f85-49f8-bdc7-7d001a5ba25b
 
@@ -26,11 +22,6 @@ https://github.com/pradhandebasish2046/Indian-Coin-Detection/assets/84903046/e0a
 
 ## Project Archietecture
 ![Project Archietecture](https://github.com/pradhandebasish2046/Indian-Coin-Detection/assets/84903046/569a365d-d1cb-4739-bf22-d7e2945e6c77)
-
-
-## Deployment Archietecture
-![Deployment Archietecture](https://github.com/pradhandebasish2046/Indian-Coin-Detection/assets/84903046/1437f42d-37a7-48d5-866f-f86f77214348)
-
 
 
 ## File Structure
